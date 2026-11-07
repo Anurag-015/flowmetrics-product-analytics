@@ -1,0 +1,50 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit local cache and secrets
+.streamlit/cache/
+.streamlit/secrets.toml
+
+# Local environment settings and secrets
+.env
+.env.*
+!.env.example
+
+# IDE & OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local agent configuration
+.agents/
+.claude/
+
+# Temporary files
+*.tmp
+*.log
+*.bak

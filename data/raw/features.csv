@@ -1,0 +1,7 @@
+feature_id,feature_name,feature_category,launch_date,is_core_feature
+1,Task Management,Core Workflow,2024-01-01,True
+2,Team Collaboration,Communication,2024-01-01,True
+3,Calendar,Productivity,2024-03-01,False
+4,Automation,Advanced,2024-06-01,False
+5,Analytics Reports,Reporting,2024-01-01,False
+6,File Sharing,Collaboration,2024-01-01,True
